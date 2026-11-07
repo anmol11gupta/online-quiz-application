@@ -1,2 +1,22 @@
-# online-quiz-application
-I am a beginner. Build an Online Quiz Application, using only HTML, CSS and JavaScript. Features: multiple-choice questions, Next/Previous buttons, score calculation, correct/incorrect feedback and a restart button. Give index.html, style.css, script.js with simple code comments, a README file, and steps to deploy on Amazon S3 and upload to GitHub.
+# Online Quiz Application
+
+An interactive multiple-choice quiz for students, built with HTML, CSS and JavaScript.
+
+## Features
+- Multiple-choice questions
+- Next and Previous buttons
+- Score calculation
+- Correct/incorrect feedback
+- Restart button
+
+## Technologies
+HTML, CSS, JavaScript
+
+## Deployment
+Hosted as a static website on Amazon S3 (static website hosting enabled).
+
+## How to run locally
+Open `index.html` in any browser.
+
+## What I learned
+Variables, arrays, objects, functions, conditions and event handling.
